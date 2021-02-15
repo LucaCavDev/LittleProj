@@ -4,7 +4,7 @@ function init() {
 
 init();
 
-//js vanilla
+//v1
 /*
 function myFunction() {
     var toggleClass = document.getElementById("search");
@@ -12,7 +12,7 @@ function myFunction() {
 }
 */
 
-//jQuery
+//v2
 
 const search = document.querySelector('.search')
 const btn = document.querySelector('.btn')
